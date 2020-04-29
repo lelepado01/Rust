@@ -1,0 +1,17 @@
+[package]
+name = "tiles"
+version = "0.1.0"
+authors = []
+edition = "2018"
+
+[dependencies]
+amethyst = "0.15.0"
+rand = "0.7.3"
+serde = { version = "1.0", features = ["derive"]}
+ron = "*"
+
+[features]
+default = ["metal"]
+empty = ["amethyst/empty"]
+metal = ["amethyst/metal"]
+vulkan = ["amethyst/vulkan"]

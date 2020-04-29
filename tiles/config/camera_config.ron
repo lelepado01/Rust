@@ -1,0 +1,7 @@
+CameraConfig (
+    translation_x : 300.0, 
+    translation_y : -200.0, 
+    translation_z : 200.0, 
+    camera_dim_x : 500.0, 
+    camera_dim_y : 500.0
+)

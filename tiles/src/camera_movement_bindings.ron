@@ -1,0 +1,11 @@
+
+(
+    axes: {
+        "vertical" : Emulated(pos:Key(Space), neg: Key(LShift)), 
+        "horizontal" : Emulated(pos: Key(D), neg: Key(A)), 
+        "forward" : Emulated(pos: Key(W), neg: Key(S)), 
+        "rotation_x": Emulated(pos: Key(Up), neg: Key(Down)),
+        "rotation_y": Emulated(pos: Key(Left), neg: Key(Right))
+    }, 
+    actions: {}
+)
