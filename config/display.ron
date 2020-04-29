@@ -1,0 +1,4 @@
+(
+  title: "player",
+  dimensions: Some((500, 500)),
+)
