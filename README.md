@@ -1,5 +1,5 @@
 # Rust
-Rust lang exercises
+Repository with some exercises in Rust
 
 # Grep
 High performance grep made using command line IO and basic Rust
